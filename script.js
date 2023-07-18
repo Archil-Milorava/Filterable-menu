@@ -101,7 +101,7 @@ const menu = [
     title: "Brazil kit",
     category: "Tshirt",
     price: "15.99$",
-    price: "15.99$",
+    
     img: "./Tshirts/shirt-2.jpg",
     desc: " Designed with lightweight, sweat-wicking fabric, the kit allows players to perform at their best in any climate. Vibrant yellow jersey with green accents, embodying the samba spirit of Brazilian football.",
   },
@@ -109,6 +109,7 @@ const menu = [
     id: 43,
     title: "Portugal kit",
     category: "Tshirt",
+    price: "15.99$",
     img: "./Tshirts/shirt-3.jpg",
     desc: "Crafted with attention to detail and comfort, the kit embodies Portugal's commitment to excellence and style. Elegant red and green ensemble showcasing the Portuguese heritage and football excellence.",
   },
