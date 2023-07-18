@@ -107,7 +107,7 @@ const menu = [
   },
   {
     id: 43,
-    title: "ortugal kit",
+    title: "Portugal kit",
     category: "Tshirt",
     img: "./Tshirts/shirt-3.jpg",
     desc: "Crafted with attention to detail and comfort, the kit embodies Portugal's commitment to excellence and style. Elegant red and green ensemble showcasing the Portuguese heritage and football excellence.",
